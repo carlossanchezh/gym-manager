@@ -5,18 +5,36 @@ public class Person {
     private String name;
     private String email;
 
-    public Person(int id, String name, String email){
+    public Person(int id, String name, String email) {
         this.id = id;
         this.name = name;
         this.email = email;
     }
-    public int getId(){
+
+    public int getId() {
         return id;
     }
-    public String getName(){
+
+    public String getName() {
         return name;
     }
-    public String getEmail(){
+
+    public String getEmail() {
         return email;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o)
+            return true;
+        if (!(o instanceof Person))
+            return false;
+        Person p = (Person) o;
+        return email.equals(p.email);
+    }
+
+    @Override
+    public int hashCode() {
+        return email.hashCode();
     }
 }

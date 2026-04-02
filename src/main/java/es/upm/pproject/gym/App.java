@@ -10,11 +10,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        // Mensajes de prueba del logger
-        logger.info("Aplicación GymManager iniciada");
-        logger.debug("Mensaje de debug (solo visible si nivel es DEBUG)");
-        logger.warn("Esto es una advertencia");
-        logger.error("Esto es un error");
+        logger.info("GymManagerApp is ready to use");
 
     }
 

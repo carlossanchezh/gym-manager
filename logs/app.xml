@@ -1,0 +1,864 @@
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731021" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: carlos@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731023" level="INFO" thread="main">
+<log4j:message><![CDATA[Person carlos@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731023" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: ana@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731023" level="INFO" thread="main">
+<log4j:message><![CDATA[Person ana@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731023" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: luis@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731023" level="INFO" thread="main">
+<log4j:message><![CDATA[Person luis@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731023" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731024" level="INFO" thread="main">
+<log4j:message><![CDATA[Class Yoga registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731024" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person carlos@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731024" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful carlos@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731024" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person ana@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731024" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful ana@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731024" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person luis@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731024" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful luis@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731025" level="INFO" thread="main">
+<log4j:message><![CDATA[Getting poeple for class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731033" level="INFO" thread="main">
+<log4j:message><![CDATA[Getting poeple for class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731033" level="ERROR" thread="main">
+<log4j:message><![CDATA[Class Yoga not found]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731042" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Zumba]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731042" level="INFO" thread="main">
+<log4j:message><![CDATA[Class Zumba registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731042" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Aerobic]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731042" level="INFO" thread="main">
+<log4j:message><![CDATA[Class Aerobic registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731042" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731042" level="INFO" thread="main">
+<log4j:message><![CDATA[Class Yoga registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731042" level="INFO" thread="main">
+<log4j:message><![CDATA[Getting all classes]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731045" level="INFO" thread="main">
+<log4j:message><![CDATA[Getting all classes]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731048" level="INFO" thread="main">
+<log4j:message><![CDATA[Getting all people]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731050" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: juan@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731050" level="INFO" thread="main">
+<log4j:message><![CDATA[Person juan@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731050" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: ana@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731050" level="INFO" thread="main">
+<log4j:message><![CDATA[Person ana@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731050" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: pedro@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731050" level="INFO" thread="main">
+<log4j:message><![CDATA[Person pedro@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731050" level="INFO" thread="main">
+<log4j:message><![CDATA[Getting all people]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731054" level="INFO" thread="main">
+<log4j:message><![CDATA[Restart class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731055" level="ERROR" thread="main">
+<log4j:message><![CDATA[Class Yoga not found]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731056" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: juan@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731056" level="INFO" thread="main">
+<log4j:message><![CDATA[Person juan@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731056" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: ana@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731056" level="INFO" thread="main">
+<log4j:message><![CDATA[Person ana@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731057" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731057" level="INFO" thread="main">
+<log4j:message><![CDATA[Class Yoga registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731057" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person juan@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731057" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful juan@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731057" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person ana@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731057" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful ana@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731057" level="INFO" thread="main">
+<log4j:message><![CDATA[Restart class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731057" level="INFO" thread="main">
+<log4j:message><![CDATA[Class Yoga restarted]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731057" level="INFO" thread="main">
+<log4j:message><![CDATA[Getting poeple for class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731059" level="INFO" thread="main">
+<log4j:message><![CDATA[Restart class null]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731059" level="ERROR" thread="main">
+<log4j:message><![CDATA[Class null not found]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731062" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: juan@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731063" level="INFO" thread="main">
+<log4j:message><![CDATA[Person juan@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731063" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731063" level="INFO" thread="main">
+<log4j:message><![CDATA[Class Yoga registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731063" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person juan@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731063" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful juan@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731063" level="INFO" thread="main">
+<log4j:message><![CDATA[Cancelling juan@mail.com enrollment in Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731063" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll cancelled juan@mail.com from Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731063" level="INFO" thread="main">
+<log4j:message><![CDATA[Getting poeple for class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731064" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: juan@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731064" level="INFO" thread="main">
+<log4j:message><![CDATA[Person juan@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731064" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731065" level="INFO" thread="main">
+<log4j:message><![CDATA[Class Yoga registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731065" level="INFO" thread="main">
+<log4j:message><![CDATA[Cancelling juan@mail.com enrollment in Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731065" level="ERROR" thread="main">
+<log4j:message><![CDATA[Person juan@mail.com is not enrrolled in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731067" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731067" level="INFO" thread="main">
+<log4j:message><![CDATA[Class Yoga registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731067" level="INFO" thread="main">
+<log4j:message><![CDATA[Cancelling no@mail.com enrollment in Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731067" level="ERROR" thread="main">
+<log4j:message><![CDATA[Person no@mail.com not found]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731070" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: juan@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731070" level="INFO" thread="main">
+<log4j:message><![CDATA[Person juan@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731070" level="INFO" thread="main">
+<log4j:message><![CDATA[Cancelling juan@mail.com enrollment in Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731070" level="ERROR" thread="main">
+<log4j:message><![CDATA[Class Yoga not found]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731076" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731076" level="INFO" thread="main">
+<log4j:message><![CDATA[Class Yoga registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731076" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person no@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731077" level="ERROR" thread="main">
+<log4j:message><![CDATA[Person with email no@mail.com not found]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731078" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: juan@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731079" level="INFO" thread="main">
+<log4j:message><![CDATA[Person juan@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731079" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731079" level="INFO" thread="main">
+<log4j:message><![CDATA[Class Yoga registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731079" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person juan@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731079" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful juan@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731079" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person juan@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731079" level="ERROR" thread="main">
+<log4j:message><![CDATA[Person with email juan@mail.com already enrolled in Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731081" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731081" level="INFO" thread="main">
+<log4j:message><![CDATA[Class Yoga registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731087" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p0@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731087" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p0@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731087" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p0@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731087" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p0@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731087" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p1@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731087" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p1@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731087" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p1@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731087" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p1@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731087" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p2@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731087" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p2@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731087" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p2@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731088" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p2@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731088" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p3@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731088" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p3@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731088" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p3@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731088" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p3@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731088" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p4@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731088" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p4@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731088" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p4@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731088" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p4@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731088" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p5@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731088" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p5@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731088" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p5@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731088" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p5@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731088" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p6@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731088" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p6@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731090" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p6@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731090" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p6@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731090" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p7@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731090" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p7@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731090" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p7@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731090" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p7@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731090" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p8@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731090" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p8@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731090" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p8@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731090" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p8@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731090" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p9@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731090" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p9@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731090" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p9@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731091" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p9@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731091" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p10@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731091" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p10@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731091" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p10@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731091" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p10@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731092" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p11@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731092" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p11@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731092" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p11@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731092" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p11@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731092" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p12@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731092" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p12@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731092" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p12@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731092" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p12@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731092" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p13@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731092" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p13@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731092" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p13@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731092" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p13@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731092" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p14@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731092" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p14@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731093" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p14@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731093" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p14@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731093" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p15@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731093" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p15@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731093" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p15@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731093" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p15@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731093" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p16@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731093" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p16@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731093" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p16@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731093" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p16@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731093" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p17@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731093" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p17@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731093" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p17@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731094" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p17@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731094" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p18@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731094" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p18@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731094" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p18@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731094" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p18@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731094" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: p19@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731094" level="INFO" thread="main">
+<log4j:message><![CDATA[Person p19@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731094" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person p19@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731094" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful p19@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731094" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: extra@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731094" level="INFO" thread="main">
+<log4j:message><![CDATA[Person extra@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731095" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person extra@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731095" level="ERROR" thread="main">
+<log4j:message><![CDATA[Class Yoga is full]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731097" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: juan@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731097" level="INFO" thread="main">
+<log4j:message><![CDATA[Person juan@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731097" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731097" level="INFO" thread="main">
+<log4j:message><![CDATA[Class Yoga registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731098" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person juan@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731098" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll successful juan@mail.com to Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731098" level="INFO" thread="main">
+<log4j:message><![CDATA[Getting poeple for class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731099" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: juan@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731099" level="INFO" thread="main">
+<log4j:message><![CDATA[Person juan@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731099" level="INFO" thread="main">
+<log4j:message><![CDATA[Enroll person juan@mail.com in class Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731100" level="ERROR" thread="main">
+<log4j:message><![CDATA[Class Yoga not found]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731103" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731103" level="ERROR" thread="main">
+<log4j:message><![CDATA[Invalid class name or trainer]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731105" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: null]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731105" level="ERROR" thread="main">
+<log4j:message><![CDATA[Invalid class name or trainer]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731105" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731105" level="INFO" thread="main">
+<log4j:message><![CDATA[Class Yoga registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731105" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731105" level="ERROR" thread="main">
+<log4j:message><![CDATA[Class name is already used]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731105" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731105" level="INFO" thread="main">
+<log4j:message><![CDATA[Class Yoga registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731105" level="INFO" thread="main">
+<log4j:message><![CDATA[Getting all classes]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731105" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: Yoga]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731105" level="ERROR" thread="main">
+<log4j:message><![CDATA[Invalid class name or trainer]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731111" level="INFO" thread="main">
+<log4j:message><![CDATA[Registering class: ]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731111" level="ERROR" thread="main">
+<log4j:message><![CDATA[Invalid class name or trainer]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731112" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: juan@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731112" level="ERROR" thread="main">
+<log4j:message><![CDATA[Invalid data for register]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731115" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: null]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731115" level="ERROR" thread="main">
+<log4j:message><![CDATA[Invalid data for register]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731119" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: juan@mail.]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731119" level="ERROR" thread="main">
+<log4j:message><![CDATA[Invalid email: juan@mail.]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731121" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: juanmail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731122" level="ERROR" thread="main">
+<log4j:message><![CDATA[Invalid email: juanmail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731123" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: juan@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731123" level="ERROR" thread="main">
+<log4j:message><![CDATA[Invalid data for register]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731125" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: juan@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731125" level="INFO" thread="main">
+<log4j:message><![CDATA[Person juan@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731126" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: juan@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731126" level="ERROR" thread="main">
+<log4j:message><![CDATA[Person with email juan@mail.com already exists]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731127" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: ]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731128" level="ERROR" thread="main">
+<log4j:message><![CDATA[Invalid data for register]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731129" level="INFO" thread="main">
+<log4j:message><![CDATA[Reggistering person: juan@mail.com]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731129" level="INFO" thread="main">
+<log4j:message><![CDATA[Person juan@mail.com registered correctly]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="es.upm.pproject.gym.GymManager" timestamp="1775144731129" level="INFO" thread="main">
+<log4j:message><![CDATA[Getting all people]]></log4j:message>
+</log4j:event>
+
