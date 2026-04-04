@@ -6,6 +6,8 @@ import org.slf4j.LoggerFactory;
 
 public class GymManager implements IGymManager {
     private static final Logger logger = LoggerFactory.getLogger(GymManager.class);
+    private static final String CLASS_NOT_FOUND = "Class {} not found";
+
     private Map<String, GymClass> classes = new HashMap<>();
     private Map<String, Person> people = new HashMap<>();
 
@@ -54,7 +56,7 @@ public class GymManager implements IGymManager {
             throw new IllegalArgumentException();
         }
         if (gc == null) {
-            logger.error("Class {} not found", className);
+            logger.error(CLASS_NOT_FOUND, className);
             throw new IllegalArgumentException();
         }
         if (gc.getPeople().size() >= 20) {
@@ -74,7 +76,7 @@ public class GymManager implements IGymManager {
         logger.info("Getting poeple for class {}", className);
         GymClass gc = classes.get(className);
         if (gc == null) {
-            logger.error("Class {} not found", className);
+            logger.error(CLASS_NOT_FOUND, className);
             throw new IllegalArgumentException();
         }
         List<Person> listP = new ArrayList<>(gc.getPeople());
@@ -92,7 +94,7 @@ public class GymManager implements IGymManager {
             throw new IllegalArgumentException();
         }
         if (gc == null) {
-            logger.error("Class {} not found", className);
+            logger.error(CLASS_NOT_FOUND, className);
             throw new IllegalArgumentException();
         }
         if (!gc.getPeople().contains(per)) {
@@ -108,7 +110,7 @@ public class GymManager implements IGymManager {
         logger.info("Restart class {}", className);
         GymClass gc = classes.get(className);
         if (gc == null) {
-            logger.error("Class {} not found", className);
+            logger.error(CLASS_NOT_FOUND, className);
             throw new IllegalArgumentException();
         }
         gc.getPeople().clear();
