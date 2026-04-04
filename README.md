@@ -15,14 +15,24 @@ Gym management system for handling class enrollments. Allows registration of peo
 ## Project Structure
 gymmanager/
 ├── src/
-│ ├── main/java/es/upm/pproject/gym/
-│ │ ├── App.java
-│ │ ├── GymManager.java
-│ │ ├── IGymManager.java
-│ │ ├── Person.java
-│ │ └── GymClass.java
-│ └── test/java/es/upm/pproject/gym/
-│ └── GymManagerTest.java
+│   ├── main/
+│   │   └── java/
+│   │       └── es/
+│   │           └── upm/
+│   │               └── pproject/
+│   │                   └── gym/
+│   │                       ├── App.java
+│   │                       ├── GymManager.java
+│   │                       ├── IGymManager.java
+│   │                       ├── Person.java
+│   │                       └── GymClass.java
+│   └── test/
+│       └── java/
+│           └── es/
+│               └── upm/
+│                   └── pproject/
+│                       └── gym/
+│                           └── GymManagerTest.java
 ├── logs/
 ├── pom.xml
 └── README.md
