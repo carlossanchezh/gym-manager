@@ -1,8 +1,8 @@
 # Gym Manager
 
 ## Authors
-- Carlos Sánchez Herrero - carlos.sanchezh@alumnos.upm.es
-- Asier Rioja Perales - asier.rioja@alumnos.upm.es 
+- Carlos Sánchez Herrero 
+- Asier Rioja Perales 
 
 ## Description
 Gym management system for handling class enrollments. Allows registration of people and classes, enrollment management, cancellations, and sorted listings.
@@ -11,6 +11,13 @@ Gym management system for handling class enrollments. Allows registration of peo
 - Java 11 or higher
 - Maven 3.6+
 - Git
+
+## Technologies
+
+- Language: Java
+- Build Tool: Maven
+- Testing Framework: JUnit 5
+- Logging: SLF4J
 
 ## Project Structure
 - `gymmanager/`
